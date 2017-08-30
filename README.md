@@ -1,5 +1,5 @@
 # Nymeria
-Simple and fun an ester egg for node.
+Simple and fun ester egg for node.
 
 Try it!
 ```
