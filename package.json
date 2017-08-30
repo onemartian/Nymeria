@@ -1,0 +1,14 @@
+{
+  "name": "nymeria",
+  "version": "0.0.01",
+  "description": "ester egg",
+  "main": "index.js",
+  "engines": {
+  "node": ">=4.2.4"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arun <arunkokkula51@gmail.com> (http://www.arunkokkula.com)",
+  "license": "MIT"
+}
